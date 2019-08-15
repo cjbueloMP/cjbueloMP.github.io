@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Collin Buelo"
+title: "My homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
