@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Collin Buelo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a graduate student at UW-Madison pursuing my PhD in Medical Physics. I graduated from UW-Madison in 2018 with my Bachelors degree in Physics and Math."
   location         : "Madison, WI"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Department of Radiology - University of Wisconsin-Madison"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T6MD5pYAAAAJ&hl=en"
   email            : "cjbuelo@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
