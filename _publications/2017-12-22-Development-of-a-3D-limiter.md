@@ -6,7 +6,7 @@ excerpt: 'A visible camera diagnostic has been developed to study the Helically 
 date: 2017-12-22
 venue: 'Review of Scientific Instruments'
 paperurl: 'http://cjbueloMP.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Buelo, C <i>et al<\i>. (2017). &quot;Development of a 3-D visible limiter imaging system for the HSX stellarator.&quot; <i>Review of Scientific Instruments</i>. 88, 123508.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
