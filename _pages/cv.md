@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and Math, University of Wisconsin-Madison, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 - Present: Research Assistant
+  * UW-Madison Dept. of Radiology & Medical Physics
+  * Lab: Quantitative Imaging Methods Laboratory
+  * Quantitative MRI imaging methods development involving machine learning,
+  * Supervisors: Diego Hernando and Scott Reeder
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2016 - May 2018: Undergraduate Research Assistant
+  * UW-Madison Dept. of Electrical & Computer Engineering
+  * Lab: HSX Research Group
+  * Designed and implemented a plasma edge limiter diagnostic on the Helically Symmetric Experiment, an optimized stellarator device
+  * Analyzed data and compared to magnetic field line following simulations
+  * Supervisor: David Anderson
   
 Skills
 ======
