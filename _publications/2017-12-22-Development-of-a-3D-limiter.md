@@ -6,10 +6,10 @@ excerpt: 'A visible camera diagnostic has been developed to study the Helically 
 date: 2017-12-22
 venue: 'Review of Scientific Instruments'
 paperurl: 'http://cjbueloMP.github.io/files/paper1.pdf'
-citation: 'Buelo, C <i>et al<\i>. (2017). &quot;Development of a 3-D visible limiter imaging system for the HSX stellarator.&quot; <i>Review of Scientific Instruments</i>. 88, 123508.'
+citation: 'Buelo, C <i>et al<\i>. (2017). &quot;Development of a 3-D visible limiter imaging system for the HSX stellarator.&quot; <i>Review of Scientific Instruments</i>, 88, 123508.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Development of a limiter imaging system to image the plasma edge effects of a carbon limiter. Using a monochrome camera, a mount was designed using AutoCAD Inventor, which was then custom made and installed on the HSX Stellerator. It was calibrated to read absolute photon flux for both hydrogen and C-III emission lines.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://cjbueloMP.github.io/files/developmentof3dvisible.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Buelo, C. (2017). "Development of a 3-D visible limiter imaging system for the HSX stellarator." <i>Review of Scientific Instruments</i>, 88, 123508.
