@@ -14,3 +14,4 @@ I received my Bachelor's from UW-Madison in 2018 in Physics and Math, where I wo
 
 About me
 ========
+In my free time I like to take my rescue dog, a german shepherd mix, on walks and to the park with my girlfriend, and play ultimate frisbee in the summers.
