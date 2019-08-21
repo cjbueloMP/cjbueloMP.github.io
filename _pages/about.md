@@ -14,8 +14,6 @@ I received my Bachelor's from UW-Madison in 2018 in Physics and Math, where I wo
 
 ## About me
 
-========
-
 In my free time I like to take walks with my girlfriend and our rescue dog, a german shepherd mix. I play ultimate frisbee in the summers in the [Madison Ultimate Frisbee Association's](www.mufa.org) rec league.
 
 I grew up just outside of Madison in Middleton where I attended Middleton High School.
