@@ -14,6 +14,6 @@ I received my Bachelor's from UW-Madison in 2018 in Physics and Math, where I wo
 
 ## About me
 
-I spend time with my girlfriend and our rescue kitten, Kylo. I play ultimate frisbee in the summers in the [Madison Ultimate Frisbee Association's](www.mufa.org) rec league.
+I spend time with my wife, Danielle, our rescue kitten, Kylo, and our energetic golden retriever, Finley. I play ultimate frisbee in the summers in the [Madison Ultimate Frisbee Association's](www.mufa.org) rec league.
 
 I grew up just outside of Madison in Middleton where I attended Middleton High School.
